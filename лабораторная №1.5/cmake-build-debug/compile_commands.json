@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -D__USE_MINGW_ANSI_STDIO=1 -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\lab1_task5.dir\\main.c.obj -c \"C:\\Users\\cabag\\OneDrive\\Рабочий стол\\лабораторные исправления\\лабораторная №1.5\\main.c\"",
+  "file": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/main.c",
+  "output": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/cmake-build-debug/CMakeFiles/lab1_task5.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -D__USE_MINGW_ANSI_STDIO=1 -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\lab1_task5.dir\\series.c.obj -c \"C:\\Users\\cabag\\OneDrive\\Рабочий стол\\лабораторные исправления\\лабораторная №1.5\\series.c\"",
+  "file": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/series.c",
+  "output": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/cmake-build-debug/CMakeFiles/lab1_task5.dir/series.c.obj"
+},
+{
+  "directory": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -D__USE_MINGW_ANSI_STDIO=1 -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\lab1_task5.dir\\integrals.c.obj -c \"C:\\Users\\cabag\\OneDrive\\Рабочий стол\\лабораторные исправления\\лабораторная №1.5\\integrals.c\"",
+  "file": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/integrals.c",
+  "output": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/cmake-build-debug/CMakeFiles/lab1_task5.dir/integrals.c.obj"
+},
+{
+  "directory": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -D__USE_MINGW_ANSI_STDIO=1 -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\lab1_task5.dir\\parsing.c.obj -c \"C:\\Users\\cabag\\OneDrive\\Рабочий стол\\лабораторные исправления\\лабораторная №1.5\\parsing.c\"",
+  "file": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/parsing.c",
+  "output": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/cmake-build-debug/CMakeFiles/lab1_task5.dir/parsing.c.obj"
+},
+{
+  "directory": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -D__USE_MINGW_ANSI_STDIO=1 -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\lab1_task5.dir\\status.c.obj -c \"C:\\Users\\cabag\\OneDrive\\Рабочий стол\\лабораторные исправления\\лабораторная №1.5\\status.c\"",
+  "file": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/status.c",
+  "output": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.5/cmake-build-debug/CMakeFiles/lab1_task5.dir/status.c.obj"
+}
+]
