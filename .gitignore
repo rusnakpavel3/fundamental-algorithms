@@ -1,0 +1,31 @@
+# Сборка CMake / CLion
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Настройки IDE
+.idea/
+.vscode/
+.vs/
+
+# Исполняемые и объектные файлы
+*.exe
+*.o
+*.obj
+*.out
+a.out
+*.zip
+
+# Файлы, которые создают сами программы при запуске
+out_*.txt
+result.txt
+merged.txt
+counts.txt
+
+# Системный мусор
+.DS_Store
+Thumbs.db
+desktop.ini
