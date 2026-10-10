@@ -1,3 +1,0 @@
-C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.2/cmake-build-debug/CMakeFiles/lab1_task2.dir
-C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
