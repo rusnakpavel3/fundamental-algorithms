@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.10/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -D__USE_MINGW_ANSI_STDIO=1 -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\lab1_task10.dir\\main.c.obj -c \"C:\\Users\\cabag\\OneDrive\\Рабочий стол\\лабораторные исправления\\лабораторная №1.10\\main.c\"",
+  "file": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.10/main.c",
+  "output": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.10/cmake-build-debug/CMakeFiles/lab1_task10.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.10/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -D__USE_MINGW_ANSI_STDIO=1 -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\lab1_task10.dir\\numbers.c.obj -c \"C:\\Users\\cabag\\OneDrive\\Рабочий стол\\лабораторные исправления\\лабораторная №1.10\\numbers.c\"",
+  "file": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.10/numbers.c",
+  "output": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.10/cmake-build-debug/CMakeFiles/lab1_task10.dir/numbers.c.obj"
+},
+{
+  "directory": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.10/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -D__USE_MINGW_ANSI_STDIO=1 -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\lab1_task10.dir\\status.c.obj -c \"C:\\Users\\cabag\\OneDrive\\Рабочий стол\\лабораторные исправления\\лабораторная №1.10\\status.c\"",
+  "file": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.10/status.c",
+  "output": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.10/cmake-build-debug/CMakeFiles/lab1_task10.dir/status.c.obj"
+}
+]
