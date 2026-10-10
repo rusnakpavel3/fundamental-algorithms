@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.3/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -D__USE_MINGW_ANSI_STDIO=1 -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\lab1_task3.dir\\main.c.obj -c \"C:\\Users\\cabag\\OneDrive\\Рабочий стол\\лабораторные исправления\\лабораторная №1.3\\main.c\"",
+  "file": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.3/main.c",
+  "output": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.3/cmake-build-debug/CMakeFiles/lab1_task3.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.3/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -D__USE_MINGW_ANSI_STDIO=1 -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\lab1_task3.dir\\parsing.c.obj -c \"C:\\Users\\cabag\\OneDrive\\Рабочий стол\\лабораторные исправления\\лабораторная №1.3\\parsing.c\"",
+  "file": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.3/parsing.c",
+  "output": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.3/cmake-build-debug/CMakeFiles/lab1_task3.dir/parsing.c.obj"
+},
+{
+  "directory": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.3/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\gcc.exe -D__USE_MINGW_ANSI_STDIO=1 -g -std=gnu99 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\lab1_task3.dir\\logic.c.obj -c \"C:\\Users\\cabag\\OneDrive\\Рабочий стол\\лабораторные исправления\\лабораторная №1.3\\logic.c\"",
+  "file": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.3/logic.c",
+  "output": "C:/Users/cabag/OneDrive/Рабочий стол/лабораторные исправления/лабораторная №1.3/cmake-build-debug/CMakeFiles/lab1_task3.dir/logic.c.obj"
+}
+]
