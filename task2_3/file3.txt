@@ -1,0 +1,10 @@
+Nothing matches here
+
+		
+no ab sequence
+only tabs	and	spaces
+and  multiple  spaces
+
+BUT: ab	 cdXef is broken by X
+and ab	 cdef is broken by no space
+		

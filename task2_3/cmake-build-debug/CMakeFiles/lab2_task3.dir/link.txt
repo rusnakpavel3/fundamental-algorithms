@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/lab2_task3.dir/main.c.o CMakeFiles/lab2_task3.dir/status.c.o CMakeFiles/lab2_task3.dir/search.c.o -o lab2_task3 

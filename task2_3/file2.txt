@@ -1,0 +1,9 @@
+ab	 cd
+ef appears right at start
+
+		
+plus another ab	 cd
+ef later on
+lots	of	tabs	here
+   and  spaces
+	
