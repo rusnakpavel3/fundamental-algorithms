@@ -1,7 +1,0 @@
-5 Ivan Petrov 75000
-2 Anna Smith 120000.50
-9 Oleg Ivanov 75000
-3 Maria Kuznetsova 98000.25
-7 anna Smith 120000.5
-1 Petr Sidorov 45000
-4 Boris Ivanov 75000
