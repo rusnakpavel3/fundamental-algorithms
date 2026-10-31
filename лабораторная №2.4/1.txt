@@ -1,0 +1,6 @@
+5 20
+photos.zip 8 10
+thesis.docx 2 15
+movie.mkv 15 9
+code.tar 6 12
+music.flac 9 7

@@ -1,0 +1,18 @@
+#ifndef STATUS_H
+#define STATUS_H
+
+typedef enum {
+    STATUS_OK = 0,
+    STATUS_ERR_NULL_ARGUMENT,
+    STATUS_ERR_EPSILON_OUT_OF_RANGE,
+    STATUS_ERR_POINT_NOT_FINITE,
+    STATUS_ERR_DEGREE_NEGATIVE,
+    STATUS_ERR_COEFFICIENT_NOT_FINITE,
+    STATUS_ERR_SIZE_OVERFLOW,
+    STATUS_ERR_ALLOC_FAILED,
+    STATUS_ERR_RESULT_OVERFLOW
+} Status;
+
+const char *status_message(const Status status);
+
+#endif

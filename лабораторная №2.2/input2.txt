@@ -1,0 +1,8 @@
+
+10   Kate  Brown	3200.5  
+
+   8 Alex Brown 3200.50
+11 Kate Brown 3200.5
+6 Zed Adams 0
+12 Max Young 1e4
+
