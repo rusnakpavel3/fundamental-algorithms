@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -Wall -Wextra -Wpedantic -Werror -std=gnu99 -o CMakeFiles/lab2_task2.dir/main.c.o -c \"/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/main.c\"",
+  "file": "/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/main.c"
+},
+{
+  "directory": "/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -Wall -Wextra -Wpedantic -Werror -std=gnu99 -o CMakeFiles/lab2_task2.dir/status.c.o -c \"/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/status.c\"",
+  "file": "/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/status.c"
+},
+{
+  "directory": "/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -Wall -Wextra -Wpedantic -Werror -std=gnu99 -o CMakeFiles/lab2_task2.dir/employee.c.o -c \"/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/employee.c\"",
+  "file": "/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/employee.c"
+},
+{
+  "directory": "/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -Wall -Wextra -Wpedantic -Werror -std=gnu99 -o CMakeFiles/lab2_task2.dir/file_io.c.o -c \"/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/file_io.c\"",
+  "file": "/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/file_io.c"
+},
+{
+  "directory": "/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -Wall -Wextra -Wpedantic -Werror -std=gnu99 -o CMakeFiles/lab2_task2.dir/same_file.c.o -c \"/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/same_file.c\"",
+  "file": "/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_2/same_file.c"
+}
+]
