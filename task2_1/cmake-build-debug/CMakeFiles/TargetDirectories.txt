@@ -1,3 +1,0 @@
-/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_1/cmake-build-debug/CMakeFiles/lab2_task1.dir
-/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/cabag/OneDrive/Рабочий стол/фундаметнальные алгоритмы 3 сем/лабораторная №2/task2_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
