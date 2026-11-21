@@ -1,0 +1,3 @@
+Ivanov Ivan Petrovich 15.03.1990 M 52000.50
+Smith John 01.01.1985 M 40000
+Petrova Anna Sergeevna 20.07.2001 W 31000
